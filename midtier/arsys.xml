@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Context deployOnStartup="true" docBase="/usr/local/tomcat/webapps/arsys" path="/arsys" reloadable="false"
+         sessionCookiePathUsesTrailingSlash="false">
+    <Manager pathname=""/>
+</Context>
